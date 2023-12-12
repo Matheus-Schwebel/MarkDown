@@ -20,4 +20,6 @@ Exemplo de arquivos MarkDown.
  
 **Negrito**<br>
 *Itálico*<br>
-Inserir código HTML:<br>
+______________________________________________________________________________________________________________________________________________________________________
+
+Nome: Matheus Henrique Schwebel - Gmail: matheus.schwebel@gmail.com - [Me Visite no GitHub](https://github.com/Matheus-Schwebel)
