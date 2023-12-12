@@ -1,4 +1,4 @@
-# Lista de  em MarkDown
+# Lista em MarkDown
 
 - **Bistek** - Supermercado
   - Banana
