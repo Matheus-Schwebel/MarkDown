@@ -5,6 +5,16 @@ Exemplo de arquivos MarkDown.
 |---------|
 
 - Listas:
-- ##### x
-- ##### y
-- ##### z
+- **x**
+  - a
+  - b
+  - c
+- **y**
+  - a
+  - b
+  - c
+- **z**
+  - a
+  - b
+  - c
+ 
