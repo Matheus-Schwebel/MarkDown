@@ -1,8 +1,11 @@
-# Lista de Compras
+# Lista de  em MarkDown
 
-- **Atacadão**
-  - Tomate
-  - Manjericão
-- **Giassi**
-  - Salsinha
-  - Cebolhinha
+- **Bistek** - Supermercado
+  - Banana
+- **Giassi** - Supermercado
+  - Arroz
+  - Feijão
+- **Feira** 
+  - Frutas Orgânicas
+  - Verduras Orgânicas
+  - Plantas 
