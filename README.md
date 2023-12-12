@@ -22,4 +22,6 @@ Exemplo de arquivos MarkDown.
 *Itálico*<br>
 Inserir código HTML:<br>
 <!DOCTYPE html>
-<u>Sublinhado</u><br>
+<body>
+<u>Este texto está sublinhado.</u>
+</body>
