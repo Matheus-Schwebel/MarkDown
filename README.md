@@ -21,7 +21,3 @@ Exemplo de arquivos MarkDown.
 **Negrito**<br>
 *Itálico*<br>
 Inserir código HTML:<br>
-<!DOCTYPE html>
-<body>
-<p>É um texto <u>sublinhado</u></p>
-</body>
