@@ -23,5 +23,5 @@ Exemplo de arquivos MarkDown.
 Inserir código HTML:<br>
 <!DOCTYPE html>
 <body>
-<p><u>Este texto está sublinhado.</u></p>
+<p>É um texto <u>sublinhado</u></p>
 </body>
