@@ -18,3 +18,10 @@ Exemplo de arquivos MarkDown.
   - b
   - c
  
+**Negrito**
+*Itálico*
+Inserir código HTML:
+<u>Sublinhado</u>
+Com entrada:
+<input>Input</input>
+E muito mais. Veja!
