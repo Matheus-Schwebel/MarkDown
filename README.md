@@ -20,6 +20,7 @@ Exemplo de arquivos MarkDown.
  
 **Negrito**<br>
 *Itálico*<br>
+E muito mais. Veja!
 ______________________________________________________________________________________________________________________________________________________________________
 
 **Nome:** Matheus Henrique Schwebel - [Me Visite no GitHub](https://github.com/Matheus-Schwebel)
